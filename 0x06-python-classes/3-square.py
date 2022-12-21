@@ -28,4 +28,4 @@ class Square:
         Returns: The square of the size
         """
 
-        return (self.__size ** 2)i
+        return (self.__size ** 2)
